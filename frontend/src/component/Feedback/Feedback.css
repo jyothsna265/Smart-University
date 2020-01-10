@@ -1,0 +1,199 @@
+.feedback-row{
+    max-height: 150px;
+    /* border-bottom: 1px solid grey; */
+    margin-top: 20px;
+}
+
+.feedback-col2 {
+    padding-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.a1 {
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+    font: bolder;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    margin-top: 10px;
+    border-radius: 100px;
+    border: 1px solid transparent;
+  }
+
+.a1 {
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+    font: bolder;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 100px;
+    border: 1px solid transparent;
+}
+
+.feedback-col3 {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.feedback-maindiv {
+    padding-bottom: 80px;
+    background-image: url("./Image15.jpg");
+    background-size: 1400px 760px;
+    /* margin-left: 50px;*/
+} 
+.postfeedback-div {
+    /* border: 1px solid grey; */
+    margin-left: 130px; 
+    margin-top: 10px;
+    margin-right: 350px;
+}
+
+.feedbackcomp {
+    border: 1px solid grey;
+    margin-left: 300px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.first-col {
+    text-align: left;
+    font-family: sans-serif;
+    border-right: 1px solid grey;
+    color: "orange";
+}
+
+.second-col {
+    text-align: left;
+    font-family: sans-serif;
+    margin-left: 16px;
+    color: "orange";
+}
+.third-col {
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: "orange";
+}
+.postfeedback-btn {
+        display: block;
+        background-color: orange;
+        border-color: orange;
+        width: 30%;
+        height: 45px;
+        color: black;
+        font-size: 18px;
+        padding: 9px 31px;
+        line-height: 1.33;
+        border-radius: 100px;
+        border: 1px solid transparent;
+        white-space: nowrap;
+        text-align: center;
+        margin-left: 300px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        font-family: sans-serif;
+        font-weight: bold;
+}
+
+.postfeedback-btn1 {
+    display: block;
+    background-color: orange;
+    border-color: orange;
+    width: 40%;
+    height: 45px;
+    color: black;
+    font-size: 18px;
+    padding: 9px 31px;
+    line-height: 1.33;
+    border-radius: 100px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.feedback-form .form-control {
+    font-family: sans-serif;
+    display: block;
+    width: 60%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid grey;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 200px;
+  }
+
+.text-control {
+    margin-top: 20px;
+    font-family: sans-serif;
+    display: block;
+    width: 60%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    font-size: 18px;
+    margin-left: 200px;
+}
+
+.date-control {
+    margin-top: 20px;
+    font-family: sans-serif;
+    display: block;
+    width: 60%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    font-size: 18px;
+    margin-left: 200px;
+    border: 1px solid grey;
+    height: 40px;
+}
+.dropdown-control {
+    width: 108%;
+    margin-left: -130px;
+    height: 40px;
+    font-family: sans-serif;
+    display: block;
+    color: #666;
+    background-color: #fff;
+    font-size: 18px;
+}
+
+.cf-maindiv {
+    background-image: url("./Image15.jpg");
+    background-size: 1400px 760px;
+    /*margin-left: 100px;*/
+}
+
+.pagination-details {
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    font-size: 20px;
+}

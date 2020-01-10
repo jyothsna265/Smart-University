@@ -1,0 +1,123 @@
+.job-div {
+
+}
+
+.job-row {
+    max-height: 70px;
+    border-bottom: 1px solid grey;
+}
+
+.job-col1 {
+    margin-left: 30px;
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+.job-col2 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.job-col3 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.job-col4 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.job-logout {
+    font-size: 28px;
+    padding: 20px;
+    margin-left: 80px;
+    color: #0067db;
+}
+
+.jobcomp-innerdiv {
+    border: 1px solid grey;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jobcomp-h3 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.jobcomp-h4 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.jobcomp-h5 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.jobcomp-descr {
+    font-family: sans-serif;
+    color: white;
+}
+
+.jobs-btn {
+    display: block;
+    background-color: orange;
+    border-color: orange;
+    width: 20%;
+    height: 45px;
+    color: white;
+    font-size: 18px;
+    padding: 9px 31px;
+    line-height: 1.33;
+    border-radius: 100px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 600px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.j1 {
+    background-color: transparent;
+    border: 1px solid orange;
+    color: orange;
+    font: bolder;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    margin-top: 10px;
+    border-radius: 100px;
+    border: 1px solid transparent;
+  }
+
+.feedback-row{
+    max-height: 150px;
+    /* border-bottom: 1px solid grey; */
+    margin-top: 20px;
+}

@@ -1,0 +1,251 @@
+
+.user-row1 {
+    margin-top : 10px;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+    max-height: 70px;
+}
+.user-row2 {
+    padding-top : 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+    font-size: 16px;
+    color: #0067db;
+}
+.user-img1 {
+    padding-top: 15px;
+}
+.user-img2 {
+    text-align: left;
+}
+
+.user-div1 {
+    text-align: center;
+}
+.user-div1 h1{
+    margin-top: 20px;
+    font-size: 32px;
+    line-height: 2.5rem;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #323f4d;
+    text-align: center;
+}
+.user-div1 h3 {
+    color: #5e6d77;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.container {
+    width: 100%;
+    margin: auto;
+    padding-left:200px;
+}
+.user-ad-left h2 {
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: left;
+    font-size:24px;
+    font-family: 'Lato','Roboto','Arial','Helvetica Neue',Helvetica,sans-serif;
+    display: block;
+    color: #323f4d;
+}
+.user-ad-left {
+    /* border: 1px solid grey; */
+    padding-left: 50px;
+    width: 68%;
+    float: left;
+    padding-right:10px;
+}
+.user-ad-right {
+    width: 30%;
+    float: right;
+    text-align: left;
+    
+}
+
+.section{
+    margin-top: -215px;
+}
+.user-form .form-control {
+    padding-right: 40px;
+    display: block;
+    width: 60%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 20px;
+    height: 45px;
+    line-height: 50px;
+    margin-left: 300px;
+    font-family: sans-serif;
+    
+}
+.user-form .form-control1 {
+    padding-right: 40px;
+    display: block;
+    width: 60%;
+    color: #666;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #d6d2d3;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 20px;
+    height: 150px;
+    line-height: 50px;
+    margin-left: 300px;
+    font-family: sans-serif;
+}
+.user-btn {
+    display: block;
+    background-color: orange;
+    border-color:orange;
+    width: 15%;
+    height: 45px;
+    color: black;
+    font-size: 18px;
+    padding: 9px 31px;
+    line-height: 1.33;
+    border-radius: 100px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 660px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.user-col2 {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.user-nav-btn {
+    background-color: #fff;
+    color: orange;
+    border-color: #fff;
+    min-height: 48px;
+    position: relative;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid grey;
+    white-space: nowrap;
+    border-radius: 100px;
+    margin: 5px 10px 10px 10px;
+    width: 100%;
+    font-size: 14px;
+}
+.user-dropdown1 {
+    vertical-align: middle;
+    padding-left: 50px;
+    font-size: 36px;
+}
+.userprofile-successmsg {
+    font-size: 20px;
+    padding-bottom : 50px;
+    color: grey;
+}
+
+.profilepic{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 25px 5px 5px 600px;
+}
+
+.p1{
+    margin: 5px 5px 10px 600px;
+}
+
+.vp-bg1 {
+    background-image: url("/logo4.png");
+    background-size: cover;
+    height: 200px;
+}
+
+.vpmodal {
+    width: 1400px;
+    vertical-align: middle;
+}
+.vpmodal1{
+    width: 400px;
+    height: 350px;
+    vertical-align: middle;
+    left: 400px;
+    top:200px;
+}
+.vpmodal2 {
+    width: 600px;
+    height: 600px;
+    vertical-align: middle;
+    left: 400px;
+    top: 100px;
+}
+.modal-body {
+    height: 600px;
+    overflow-y: auto;
+}
+
+.modal-body1 {
+    height: 450px;
+    overflow-y: auto;
+}
+
+.modal-body2 {
+    height: 350px;
+    width: 400px;
+    overflow-y: auto;    
+}
+.modal-body4 {
+    height: 600px;
+    width: 600px;
+    overflow-y: auto;
+    margin:5px 5px 5px 500px;
+}
+.modal-dialog {
+    width: 800px;
+    overflow-y: initial !important
+}
+.hidden {
+    display: none;
+}   
+.modal-body6 {
+    height: 400px;
+    width: 300px;
+    overflow-y: auto;
+    left: 400px;
+    top: 100px; 
+}
+.modal-dialog1{
+    width: 300px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.vpmodal4 {
+    width: 800px;
+    height: 600px;
+    vertical-align: middle;
+    left: 400px;
+    top: 100px;
+}
+
+.user-first-div {
+    background-image: url("./Image15.jpg");
+    background-size: 1500px 800px;
+    margin-top: -20px;
+}

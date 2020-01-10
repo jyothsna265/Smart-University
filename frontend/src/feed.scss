@@ -1,0 +1,109 @@
+.Feed {
+  background-color: black;
+}
+.Ex {
+  margin-top: 2%;
+  margin-left: 15%;
+  .Profile {
+    border-radius: 5px;
+    hr {
+      margin: 0em;
+    }
+    .title {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    width: 15%;
+    display: inline-block;
+    float: left;
+    height: 300px;
+    background-color: white;
+    color: black;
+    img {
+      border-radius: 50%;
+      position: center;
+      width: 40%;
+    }
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .News {
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 10px;
+    hr {
+      margin: 0em;
+    }
+    .title {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    width: 25%;
+    display: inline-block;
+    float: left;
+    height: 500px;
+    background-color: white;
+    color: black;
+    overflow-y: auto;
+    img {
+      border-radius: 50%;
+      position: center;
+      width: 40%;
+    }
+    padding-top: 10px;
+    text-align: center;
+  }
+  .feed {
+    float: left;
+    display: inline-block;
+    width: 40%;
+    overflow-y: auto;
+  }
+  .Extra {
+    margin-left: 2%;
+    border-radius: 5px;
+    margin-top: 4px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    .header {
+      div {
+        display: inline-block;
+        width: 70%;
+        padding-left: 5px;
+        margin-left: 2%;
+        padding-top: 5px;
+        h4 {
+          display: inline;
+          font-weight: bold;
+        }
+        h6 {
+          display: inline;
+        }
+      }
+
+      img {
+        width: 10%;
+        height: 60px;
+        border-radius: 50%;
+      }
+    }
+
+    .body {
+      margin-top: 5px;
+      min-height: 20px;
+      padding-left: 10px;
+      font-size: 15px;
+      font-family: Arial;
+      img {
+        width: 100%;
+      }
+    }
+    .footer {
+      button {
+        margin-left: 5px;
+      }
+    }
+  }
+}

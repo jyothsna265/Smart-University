@@ -1,0 +1,208 @@
+
+.first-div {
+  background-image: url("./Image15.jpg");
+  background-size: 1450px 720px;
+}
+
+.postjob-row {
+  max-height: 70px;
+  border-bottom: 1px solid grey;
+}
+
+.postjob-col1 {
+  margin-left: 30px;
+  color: #0067db;
+  font-size: 40px;
+  font-family: sans-serif;
+  padding: 5px;
+}
+
+.postjob-logout {
+  font-size: 28px;
+  padding: 20px;
+  margin-left: 80px;
+  color: #0067db;
+}
+
+.Alumni-form .form-control {
+  font-family: sans-serif;
+  display: block;
+  width: 40%;
+  color: #666;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #d6d2d3;
+  box-shadow: none;
+  border-radius: 4px;
+  font-size: 18px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 330px;
+}
+
+.postjob-btn {
+  display: block;
+  background-color: orange;
+  border-color: orange;
+  width: 20%;
+  height: 45px;
+  color: black;
+  font-size: 18px;
+  padding: 9px 31px;
+  line-height: 1.33;
+  border-radius: 100px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  text-align: center;
+  margin-left: 450px;
+  margin-bottom: 100px;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.dropdown {
+  margin-left: 330px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: grey;
+}
+
+/* . {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-bottom: 20px;
+} */
+
+.postjob-col2 {
+  font-size: 16px;
+  color: #0067db;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.postjob-col3 {
+  font-size: 16px;
+  color: #0067db;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.postjob-col4 {
+  font-size: 16px;
+  color: #0067db;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.job-div {
+  background-image: url("./Image15.jpg");
+  background-size: 1450px 720px;
+  margin-top: -20px;
+}
+
+.jobdetails {
+  margin-top: 20px;
+}
+
+.alumjob-row {
+    max-height: 70px;
+    border-bottom: 1px solid grey;
+}
+
+.alumjob-col1 {
+    margin-left: 30px;
+    color: #0067db;
+    font-size: 40px;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+.alumjob-col2 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.alumjob-col3 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.alumjob-col4 {
+    font-size: 16px;
+    color: #0067db;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.alumjob-logout {
+    font-size: 28px;
+    padding: 20px;
+    margin-left: 80px;
+    color: #0067db;
+}
+
+.alumjobcomp-innerdiv {
+    border: 1px solid grey;
+    margin-left: 400px;
+    margin-right: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.alumjobcomp-h3 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.alumjobcomp-h4 {
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.alumjobcomp-h5 {
+    font-family: sans-serif;
+    color: white;
+}
+
+.alumjobcomp-descr {
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+}
+
+.alumjobs-btn {
+    display: block;
+    background-color: orange;
+    border-color: orange;
+    width: 20%;
+    height: 45px;
+    color: black;
+    font-size: 18px;
+    padding: 9px 31px;
+    line-height: 1.33;
+    border-radius: 100px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    text-align: center;
+    margin-left: 600px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
